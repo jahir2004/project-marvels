@@ -27,6 +27,8 @@ $film = $stmt->fetch(PDO::FETCH_ASSOC);
                 <li><a href="info.php">Informatie</a></li>
                 <li><a href="gallery.php">Galerij</a></li>
                 <li><a href="faq.php">FAQ</a></li>
+                <li><a href="login.html">login</a></li>
+                <li><a href="register.html">registratie</a></li>
             </ul>
         </nav>
     </header>
